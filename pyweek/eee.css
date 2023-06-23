@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#EEE{
+    background-image: url(https://www.shutterstock.com/image-photo/electrical-substation-silhouette-on-dramatic-260nw-1135369610.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-size: 25px;
+    font-weight: 50;
+    font-style: oblique;
+    
+}
+#EEE strong{
+    color: black;
+    border: 2px 0;
+}
+.whole > div {
+    padding: 20px 0;
+    text-align: center;
+    margin: 5px 0;
+}
+
+#EEE h1, h2, h4{
+    color: black;
+    background-color: white;
+}
+.eeebg{
+    background-color: blue;
+}
+.lakh{
+    margin-left: 25%;
+}
+.menu1{
+    background-color: gold;
+    width: 50%;
+    height: 60%;
+    margin: 0 10px;
+    float: left;
+}
+.menu2{
+    background-color: cyan;
+    width: 50%;
+    float: left;
+    height: 60%;
+    margin: 0 10px;
+
+}

@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.moststd strong{
+    text-align: center;
+    margin-left: 10%;
+}
+
+#ECE{
+    background-image: url(https://chennai.vit.ac.in/wp-content/uploads/2020/12/M.Tech-in-ECE-Job-opportunities-in-Electronics-and-Communication-Engineering.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-size: 25px;
+    font-weight: 50;
+}
+#ECE strong{
+    color: rgb(238, 255, 0);
+    border: 2px 0;
+}
+#ECE li{
+    text-align: center;
+    margin-left: 30%;
+}
